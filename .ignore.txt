@@ -1,0 +1,40 @@
+# KNIME workspace metadata
+.metadata/
+
+# Temporary files
+tmp/
+temp/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Eclipse/KNIME project settings (optional)
+.settings/
+.classpath
+.project
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large data exports
+*.csv
+*.xlsx
+*.parquet
+*.feather
+
+# KNIME caches
+**/cache/
+**/__pycache__/
+
+# R temporary files
+.Rhistory
+.RData
